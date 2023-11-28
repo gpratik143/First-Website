@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+
+
+}
+.header{
+    display: flex;
+    justify-content: center;
+    color: rgb(5, 5, 17);
+    text-shadow: 50px;
+    font-size: 1.8rem;
+    background: #0497c4;
+    color: #211d1d;
+    height: 80px;
+    align-items: center;
+    
+    
+}
+.LOGO{          
+    height: 200px;
+    width: 200px;
+    
+    background-image: url("LOGO.png");
+    background-size: cover ;
+    margin-left: 650px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+
+}
+.main{width: 300px;
+    height: 100px;
+
+
+    
+    font-weight: bolder;
+    margin-top: 110px;
+    margin-left: 50px;
+
+}
+h3{text-align: center;
+
+    }
+.name{display: flex;
+    background: #00445d;
+    height: 30px;
+    margin-top: 5px;
+    align-items: center;
+    color: #ffff;
+    margin-left: 1px;
+    padding: 5px;
+}
+.sub_by{display: flex;
+    width: 300px;
+    height: 60px;
+    background: #000;
+    margin-left: 1100px;
+    margin-top: 5px;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.Tname{width: 300px;
+        height: 50px;
+        
+    background: #08f45b;
+    color: #ffff;
+    text-align: center}
+.footer{width: auto;
+        height: 70px;
+        background: #ffdb4e;
+        margin-top: 74px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+}
+button{size: 9px;}
+.movie{margin: 100px;
+    margin-left: 500px;
+    width: 500px;
+    height: 300px;
+    background: #000;
+    
+}
+a{text-decoration: none;
+    color: #160F30;
+}
+.lab{display: flex;
+justify-content: space-evenly;
+margin: 2px;}
+.lab2{display: flex;
+justify-content: space-evenly;
+margin: 5px;
+}
+.img1{
+    width: 500px;
+    height: 800px;
+    background-image:url("Lab1_page_01.jpg");
+    background-size: cover;
+}
+.img2{
+    width: 500px;
+    height: 800px;
+    background-image:url("Lab1_page_02.jpg");
+    background-size: cover;
+}
+.img3{
+    width: 500px;
+    height: 800px;
+    background-image:url("Lab1_page_03.jpg");
+    background-size: cover;
+}
+.q1{
+    width: 500px;
+    height: 300px;
+    background-image:url("IMG1.jpg");
+    background-size: cover;
+}
+.q2{
+    width: 500px;
+    height: 300px;
+    background-image:url("IMG2.jpg");
+    background-size: cover;
+}
+.q3{
+    width: 500px;
+    height: 300px;
+    background-image:url("IMG3.jpg");
+    background-size: cover;
+}
+.q4{
+    width: 400px;
+    height: 300px;
+    background-image:url("IMG4.jpg");
+    background-size: cover;
+}
+.q5{
+    width: 500px;
+    height: 300px;
+    background-image:url("IMG5.jpg");
+    background-size: cover;
+}
+.q6{
+    width: 500px;
+    height: 300px;
+    background-image:url("IMG6.JPG");
+    background-size: cover;
+}
+.q7{
+    width: 500px;
+    height: 300px;
+    background-image:url("IMG7.jpg");
+    background-size: cover;
+
+}
+.q8{
+    width: 500px;
+    height: 300px;
+    background-image:url("IMG8.jpg");
+    background-size: cover;
+}
+
+.q9{
+    width: 500px;
+    height: 300px;
+    background-image:url("IMG9.jpg");
+    background-size: cover;
+}
+.q10{
+    width: 400px;
+    height: 400px;
+    background-image:url("lab6.jpg");
+    background-size: cover;
+}
+.lab3i{
+    width: 400px;
+    height: 300px;
+    background-image:url("Lab3_magnifing_glass.jpg");
+    background-size: cover;
+}
+.lab3i2{
+    width: 300px;
+    height: 500px;
+    background-image:url("Haircolor.jpg");
+    background-size: cover;
+
+}
+.lab3i3{
+    width: 500px;
+    height: 300px;
+    background-image:url("Waterreflection.jpg");
+    background-size: cover;
+}
+.lab4{
+    width: 500px;
+    height: 500px;
+    background-image:url("Lab4_Image1.jpg");
+    background-size: cover;
+}
+.lab5a{
+    width: 500px;
+    height: 500px;
+    background-image:url("Lab5_Pencil.jpg");
+    background-size: cover;
+}
+.lab5{
+    width: 500px;
+    height: 500px;
+    background-image:url("lab5_MediaPlayer.jpg");
+    background-size: cover;
+}
+.lab8a{
+    width: 500px;
+    height: 500px;
+    background-image:url("Lab8_Image1.jpg");
+    background-size: cover;
+}
+.lab8b{
+    width: 500px;
+    height: 500px;
+    background-image:url("Lab8_Image2.jpg");
+    background-size: cover;
+}
+
